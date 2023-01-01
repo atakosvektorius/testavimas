@@ -20,7 +20,7 @@ https://owasp.org/www-project-web-security-testing-guide/latest/
 https://cheatsheetseries.owasp.org/
 ```
 
-### OWASP silpnųjų vietoų Top 10:2021
+### OWASP silpnųjų vietų Top 10:2021
 ```
 https://owasp.org/www-project-top-ten/
 ```
@@ -33,5 +33,4 @@ https://github.com/swisskyrepo/PayloadsAllTheThings
 Patikros sąrašas pridedamas
 
 ### Įrankiai
-DAST - Acunetix
-Rankinis - Burp Suite Pro
+Acunetix ir Burp Suite Pro
