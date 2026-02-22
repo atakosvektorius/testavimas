@@ -20,9 +20,9 @@ https://owasp.org/www-project-web-security-testing-guide/latest/
 https://cheatsheetseries.owasp.org/
 ```
 
-### OWASP silpnųjų vietų Top 10:2021
+### OWASP silpnųjų vietų Top 10:2025
 ```
-https://owasp.org/www-project-top-ten/
+https://owasp.org/Top10/2025/
 ```
 ### Rinkiniai 
 
